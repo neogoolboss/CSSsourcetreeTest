@@ -1,0 +1,56 @@
+#header {
+    width: auto;
+    height: 50px;
+    background: blue;
+    font-weight: bold;
+    font-family: "Nanum Gothic";
+}
+
+.middle {
+    display:inline-table;
+    margin-right: -4px;
+}
+
+
+.area1 {
+    width: 20%;
+    height: 300px;
+    background: red;
+}
+.area2 {
+    width: 60%;
+    height: 300px;
+    background: green;
+}
+
+.section {
+    
+    height: 90px;
+    margin-top : 00px;
+    margin-left : 20px;
+    margin-right: 20px;
+}
+
+.article1 {
+    background: yellowgreen;
+    
+}
+.article2 {
+    background: pink;
+
+}
+.article3 {
+    background: cyan;
+}
+
+.area3 {
+    width: 20%;
+    height: 300px;
+    background: wheat;
+}
+
+#footer {
+    background: purple;
+    width: auto;
+    height: 20px;
+}
